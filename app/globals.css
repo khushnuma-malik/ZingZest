@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
+body {
     overflow-x: hidden;
+}
+
+.nav1 {
+    background-image: url('https://media-cdn.grubhub.com/grubhub-marketing/image/upload/f_auto,fl_lossy/v1692270106/grubhubHomePage/sushi_homepage1.png ');
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }

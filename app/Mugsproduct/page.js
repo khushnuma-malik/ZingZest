@@ -6,7 +6,7 @@ const page = () => {
       <section class="text-gray-600 body-font overflow-hidden">
         <div class="container px-5 py-24 mx-auto">
           <div class="lg:w-4/5 mx-auto flex flex-wrap">
-            <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="https://assets.ajio.com/medias/sys_master/root/20220510/UmZ8/62796c76f997dd03e29cf9c9/-473Wx593H-464303699-green-MODEL.jpg" />
+            <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto px-24 object-cover  object-top rounded" src="https://assets.ajio.com/medias/sys_master/root/20220510/UmZ8/62796c76f997dd03e29cf9c9/-473Wx593H-464303699-green-MODEL.jpg" />
             <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
               <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
               <h1 class="text-gray-900 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>

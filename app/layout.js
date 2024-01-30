@@ -4,6 +4,7 @@ import Navbar from './Component/Navbar'
 import Footer from './Component/Footer'
 
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
@@ -12,15 +13,17 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
+
+
   return (
     <html lang="en">
 
 
       <body className={inter.className}>
         <Navbar />
-     
+
         {children}
-        <Footer/>
+        <Footer />
       </body>
     </html>
   )

@@ -10,7 +10,7 @@ const page = () => {
          
         <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://img.taste.com.au/_8bpu_a6/taste/2019/02/healthy-poached-chicken-green-dinner-bowl-147095-1.jpg " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://qph.cf2.quoracdn.net/main-qimg-10770f75d72c19aec7b0c8e73ee2f135.webp" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tshirt</h3>
@@ -21,7 +21,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block"src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzb9NeWVU0tr3irxmM1dZRO3KjTB6DSkvYXQ&usqp=CAU' /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxV2yESvKSKr6fCQBzThJQzItYO1zHLwzkkg&usqp=CAU " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -32,7 +32,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://www.eatingwell.com/thmb/m0nLGXor00bjRKFQcEUlMHv2Qmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6753430-928769f74aa24a25b43acb7d05d55054.jpg" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://www.lekhafoods.com/media/89192/tamilnadu-nonveg-sidedish.jpg " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -43,7 +43,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://hips.hearstapps.com/hmg-prod/images/romantic-dinner-ideas-thai-style-peanut-chicken-wraps-1609187313.jpg?crop=1xw:0.9989806320081549xh;center,top&resize=980:* " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://qph.cf2.quoracdn.net/main-qimg-5beaed2c2fa62ab9ed2a5086d77ae0e0.webp" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -54,7 +54,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmidZdI72z5u8n9-AbNQzOQN-mveiZWOQGeIMQjq8CGMjvyrDIDRYtGnGTrH56U_YynzE&usqp=CAU " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://images.slurrp.com/prodarticles/byhm9uu1tb9.webp" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -65,7 +65,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPmC3eGTCGcfVwZX5h4KvFwD7QdpmE9pIrt51Bwx1Ee0IepkfyaOnJebO7dratIi3_Xg&usqp=CAU " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxjLT6MJlg07Y79yqmf5CCK4YlIcUOJg5hLzp2XcI9VJIBqs6BRjXgegZIDOWUu2wLtY&usqp=CAU" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -76,7 +76,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://recipes.net/wp-content/uploads/2021/02/65-dinner-ideas-for-two-scaled.jpg" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4Y1rioZt4lp9YSxM2zkTta_F8EVZTlqNyFRuFe48SoBgZyBxwZA8GfsPIbA0lAyyxBc&usqp=CAU" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -87,7 +87,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUQbYdiT6N5RRiAykYTmZuh5C6Z_rF1RDrNULZk_E2A9q8VI1ZBZWarFh18x_R3omR7w&usqp=CAU   " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQDYn5KaRiYLHsIOEiuoOT8hrPcBlb_SJJw&usqp=CAU  " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -98,7 +98,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIYq1yB9Ex9Jd8nRo9vjeSOTnVG-m3jEBqn1NdL8s5kZVGK6dc8GcrviJDWNhDXAHqIQ&usqp=CAU " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1S4p-p-KanJ2Xhog3UpVaK02FT3PEMgUB_QafoTZWxcWMweTU9RnrrTc7IxvUhVg-kZE&usqp=CAU" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Tshirt</h3>
@@ -109,7 +109,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8fn6DVLZPLKK8a2vSqsBSsevnZb3WPSEYA&usqp=CAU" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src=" https://dukaan.b-cdn.net/700x700/webp/173340/5573fc83-08b6-4855-a72f-5a5ce7cb5ea7.png " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -120,7 +120,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://i.ndtvimg.com/i/2015-06/indian-dinner_625x350_81434363008.jpg" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src=" https://c.ndtvimg.com/2018-11/57ktg0ig_mithai_625x300_07_November_18.jpg" /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -131,7 +131,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>    <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://www.eatingwell.com/thmb/pr3tzZkOvQkHD2Le-M5WwUcFZ1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KH_062922_EW10579-f0f64d374e1546fea7565c81f1459b11.jpg" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7d4A6tTbRMGK7QbWbbQ8jB8rqvClEJTiVtGibKpyUxb2F4qVIWlriBVt_yYd4_WwBjm0&usqp=CAU " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -142,7 +142,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/roast_chicken_for_one_41998_16x9.jpg " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://c.ndtvimg.com/2019-11/3ru77v2g_mithai_625x300_14_November_19.jpg?im=FaceCrop,algorithm=dnn,width=384,height=384 " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -153,7 +153,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPC57GmvvmBHyjtKaZd9gODnbXAf65ncwyzQ&usqp=CAU" /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://static.toiimg.com/thumb/53501217.cms?imgsize=145478&width=800&height=800 " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -164,7 +164,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VT80ocPwsg2OcNYYKNcyYXVISyh8Kftl7CUdpFYnpBj5aWOyvZ_MvOlfRRFQ_R6-u3A&usqp=CAU " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block" src="https://cdn.loveandlemons.com/wp-content/uploads/2023/06/homemade-ice-cream-500x500.jpg " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -175,7 +175,7 @@ const page = () => {
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="lg:w-1/4 md:w-1/2 p-4 w-full cursor-pointer shadow-md ">
-              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block " src="https://hips.hearstapps.com/hmg-prod/images/easy-dinner-recipes-chicken-fajita-pasta-659433d13723c.jpeg?crop=1xw:1xh;center,top&resize=980:* " /> </Link>
+              <Link href={'/Tshirtproduct'}>  <img alt="ecommerce" class="m-auto md:mx-0 object-cover object-center h-[30vh] md:h-[35vh] block " src="https://assets-global.website-files.com/5e9ebc3fff165933f19fbdbe/61b31c9d289e22335b6753b2_Ice%20Cream%202.jpg " /> </Link>
             </a>
             <div class="mt-4 text-center md:text-left ">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
@@ -194,4 +194,3 @@ const page = () => {
 }
 
 export default page
-

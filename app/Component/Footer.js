@@ -8,7 +8,7 @@ const Footer = () => {
   <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
     <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
    
-      <Image width={100} height={40} src="/logo.jpg.png" alt="Online Shop" />
+    <Link href={'/'}><h1 className=' text-rose-950 font-bold'> ZingyZest</h1></Link>
       <Link href={"/"}>
       <p class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
        
