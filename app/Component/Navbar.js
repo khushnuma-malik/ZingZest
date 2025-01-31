@@ -31,10 +31,10 @@ const Navbar = () => {
     
         <div className=''>
           <ul className='flex items-center space-x-2 font-bold md:text-md '>
-            <Link href='/Tshirt'><li>T-shirt</li></Link>
-            <Link href='/Hoodies'><li>Hoodies</li></Link>
-            <Link href='/Stickers'><li>Stickers</li></Link>
-            <Link href='/Mugs'><li>Mugs</li></Link>
+            <Link href='/Tshirt'><li>Indian</li></Link>
+            <Link href='/Hoodies'><li>Pakistani</li></Link>
+            <Link href='/Stickers'><li>Chinese</li></Link>
+            <Link href='/Mugs'><li>Bangali</li></Link>
           </ul>
         </div>
         <div onClick={toggleCart} className=' cursor-pointer cart absolute right-0 top-4 mx-5'>
